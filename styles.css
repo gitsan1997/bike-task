@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin:0;
+    background-image: url('bike.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+h1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    margin-bottom: 20px;
+    color: rgb(195, 190, 247);
+}
+#WN
+{
+
+   color:rgb(225, 111, 124);
+}
+p
+{
+color: rgb(60, 110, 113);
+}
